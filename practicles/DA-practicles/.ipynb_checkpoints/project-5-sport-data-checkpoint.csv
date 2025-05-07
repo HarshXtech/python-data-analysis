@@ -1,0 +1,101 @@
+,Athlete_ID,Name,Age,Gender,Sport,Height_cm,Weight_kg,Best_Performance,Medals_Won
+0,1000,Taylor,20,Male,Long Jump,169,92,7.06,3
+1,1001,Alex,33,Female,Shot Put,164,86,17.79,1
+2,1002,Taylor,25,Male,Sprint,197,106,11.49,2
+3,1003,Jamie,19,Female,High Jump,180,77,1.71,3
+4,1004,Jamie,31,Male,Sprint,165,93,13.75,2
+5,1005,Alex,24,Male,Shot Put,189,61,21.42,0
+6,1006,Riley,30,Male,Long Jump,151,101,7.36,1
+7,1007,Jordan,21,Female,Shot Put,171,75,18.2,2
+8,1008,Jamie,27,Female,High Jump,188,69,1.72,0
+9,1009,Jamie,32,Male,Shot Put,185,51,15.11,2
+10,1010,Quinn,31,Female,Sprint,185,79,11.09,2
+11,1011,Jordan,30,Female,Sprint,157,88,14.98,2
+12,1012,Drew,34,Male,Long Jump,190,74,6.6,1
+13,1013,Quinn,32,Male,Long Jump,180,56,6.8,4
+14,1014,Jordan,27,Male,Sprint,173,83,12.39,2
+15,1015,Riley,20,Male,High Jump,195,107,1.99,1
+16,1016,Avery,21,Female,High Jump,178,106,1.82,2
+17,1017,Avery,32,Female,Shot Put,185,64,15.04,2
+18,1018,Casey,23,Male,Sprint,159,52,12.29,2
+19,1019,Taylor,28,Male,Shot Put,198,53,20.47,1
+20,1020,Drew,20,Female,High Jump,158,103,1.9,2
+21,1021,Morgan,19,Female,High Jump,178,88,1.8,4
+22,1022,Morgan,25,Female,Sprint,190,103,13.49,0
+23,1023,Drew,34,Male,High Jump,174,65,2.33,3
+24,1024,Casey,18,Female,Long Jump,184,92,7.67,0
+25,1025,Morgan,24,Female,Sprint,167,95,10.61,1
+26,1026,Alex,21,Female,Shot Put,180,57,19.02,0
+27,1027,Jamie,32,Female,Shot Put,187,51,20.55,1
+28,1028,Jordan,24,Male,Long Jump,167,71,6.8,1
+29,1029,Morgan,34,Male,High Jump,184,57,2.12,2
+30,1030,Riley,33,Male,Long Jump,164,91,7.12,0
+31,1031,Jamie,22,Male,Shot Put,163,99,21.86,2
+32,1032,Riley,20,Male,Long Jump,182,64,6.78,0
+33,1033,Alex,18,Male,Shot Put,181,91,19.07,4
+34,1034,Jamie,18,Female,Long Jump,174,81,6.54,0
+35,1035,Jordan,25,Female,Shot Put,198,86,17.54,0
+36,1036,Morgan,23,Female,High Jump,150,75,1.89,1
+37,1037,Quinn,26,Male,High Jump,181,81,2.2,0
+38,1038,Taylor,18,Male,Long Jump,191,62,7.07,3
+39,1039,Morgan,27,Female,High Jump,196,52,1.75,1
+40,1040,Taylor,21,Female,High Jump,191,77,2.09,2
+41,1041,Casey,31,Male,High Jump,196,109,1.57,1
+42,1042,Quinn,34,Male,Shot Put,153,89,15.02,2
+43,1043,Jamie,33,Male,Sprint,182,103,10.13,5
+44,1044,Drew,33,Female,Shot Put,170,74,16.7,3
+45,1045,Casey,28,Female,Sprint,186,66,12.08,3
+46,1046,Casey,19,Female,Shot Put,184,62,17.34,2
+47,1047,Casey,31,Male,Sprint,189,89,11.39,2
+48,1048,Quinn,30,Female,Long Jump,150,72,6.3,0
+49,1049,Casey,33,Male,High Jump,186,87,2.28,1
+50,1050,Taylor,20,Male,Sprint,190,82,10.15,0
+51,1051,Quinn,33,Female,High Jump,172,50,1.83,2
+52,1052,Riley,31,Male,Shot Put,156,106,16.1,0
+53,1053,Jordan,27,Male,Shot Put,177,96,18.67,2
+54,1054,Taylor,21,Male,Long Jump,170,84,7.54,2
+55,1055,Casey,27,Female,High Jump,155,57,2.33,0
+56,1056,Morgan,21,Male,Shot Put,162,104,19.59,1
+57,1057,Jordan,19,Male,High Jump,196,86,2.01,0
+58,1058,Avery,32,Male,Long Jump,179,69,6.75,2
+59,1059,Riley,29,Female,Sprint,168,87,10.7,3
+60,1060,Riley,19,Male,High Jump,190,97,1.51,0
+61,1061,Jordan,24,Male,High Jump,171,94,2.05,2
+62,1062,Taylor,27,Male,High Jump,187,55,2.05,1
+63,1063,Avery,31,Male,Shot Put,173,51,15.28,1
+64,1064,Taylor,31,Male,Long Jump,182,99,6.14,2
+65,1065,Riley,24,Female,Sprint,172,102,10.66,3
+66,1066,Jordan,19,Female,Shot Put,172,97,17.72,2
+67,1067,Drew,31,Female,High Jump,195,63,2.23,5
+68,1068,Morgan,32,Female,Shot Put,156,85,19.73,2
+69,1069,Quinn,31,Female,Long Jump,163,73,6.26,3
+70,1070,Quinn,19,Female,High Jump,161,85,2.27,2
+71,1071,Riley,27,Male,Long Jump,166,61,6.62,2
+72,1072,Alex,18,Male,Shot Put,166,92,16.43,1
+73,1073,Alex,33,Female,Shot Put,164,107,17.16,2
+74,1074,Drew,32,Male,Sprint,161,84,11.79,1
+75,1075,Jordan,27,Female,Long Jump,171,58,7.23,1
+76,1076,Quinn,25,Female,Sprint,188,84,14.29,5
+77,1077,Casey,25,Male,Shot Put,182,85,20.19,5
+78,1078,Casey,24,Female,Shot Put,185,75,15.22,4
+79,1079,Jordan,29,Female,Long Jump,179,93,6.26,1
+80,1080,Taylor,22,Male,Long Jump,191,88,7.89,4
+81,1081,Riley,31,Female,Sprint,166,108,11.9,0
+82,1082,Alex,19,Female,Sprint,196,52,12.31,3
+83,1083,Casey,33,Male,Long Jump,156,80,6.26,3
+84,1084,Alex,23,Female,Sprint,181,50,13.22,3
+85,1085,Riley,22,Female,High Jump,153,98,2.25,2
+86,1086,Morgan,24,Male,High Jump,151,87,2.15,2
+87,1087,Quinn,28,Female,Shot Put,173,65,18.99,1
+88,1088,Alex,21,Male,Shot Put,156,68,18.37,1
+89,1089,Alex,18,Female,Shot Put,177,106,16.9,1
+90,1090,Jordan,30,Male,Long Jump,154,80,6.22,3
+91,1091,Avery,26,Female,Long Jump,169,108,6.16,3
+92,1092,Taylor,25,Male,Shot Put,150,92,16.21,2
+93,1093,Alex,24,Male,Shot Put,156,64,20.85,1
+94,1094,Casey,34,Female,Sprint,188,97,14.01,1
+95,1095,Riley,28,Female,Sprint,159,74,13.76,3
+96,1096,Jordan,26,Female,Shot Put,157,106,18.51,3
+97,1097,Morgan,22,Male,Sprint,186,80,11.23,1
+98,1098,Quinn,22,Male,Sprint,166,97,13.88,2
+99,1099,Jamie,33,Female,Sprint,157,64,10.87,1

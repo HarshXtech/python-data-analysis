@@ -1,0 +1,301 @@
+,Order_ID,Customer_Age,Gender,Product_Category,Order_Amount,Order_Date,Delivery_Status
+0,25795,44,Male,Home & Kitchen,781.89,2024-01-21,Delivered
+1,92386,38,Male,Home & Kitchen,867.51,2024-01-24,Delivered
+2,74820,17,Female,Books,939.17,2024-01-02,Delivered
+3,93104,27,Female,Beauty,437.63,2024-02-18,Delivered
+4,94478,57,Female,Books,974.02,2024-01-15,Delivered
+5,94654,66,Female,Books,596.49,2024-01-03,Cancelled
+6,51606,36,Male,Clothing,949.4,2024-02-29,Delivered
+7,53001,24,Female,Beauty,238.58,2024-02-29,Delivered
+8,27159,62,Male,Electronics,266.19,2024-01-04,Delivered
+9,87189,69,Female,Books,193.01,2024-03-03,Cancelled
+10,81211,49,Female,Books,601.92,2024-02-17,Delivered
+11,50397,38,Female,Electronics,961.56,2024-03-25,Delivered
+12,84065,62,Male,Clothing,965.6,2024-02-29,Delivered
+13,48044,30,Male,Electronics,25.48,2024-01-09,Cancelled
+14,77563,23,Female,Home & Kitchen,206.85,2024-01-08,Cancelled
+15,22666,20,Female,Clothing,124.71,2024-01-07,Cancelled
+16,88603,49,Male,Beauty,732.31,2024-03-26,Cancelled
+17,80592,50,Male,Home & Kitchen,763.18,2024-03-30,Delivered
+18,10206,30,Female,Clothing,444.94,2024-02-20,Delivered
+19,64268,47,Female,Beauty,256.8,2024-01-15,Cancelled
+20,43827,28,Female,Home & Kitchen,697.84,2024-01-28,Pending
+21,74044,68,Female,Books,805.64,2024-02-13,Delivered
+22,52941,26,Female,Clothing,130.87,2024-03-29,Delivered
+23,33776,16,Male,Home & Kitchen,432.84,2024-03-17,Cancelled
+24,68053,23,Male,Electronics,489.98,2024-02-20,Delivered
+25,76199,30,Male,Electronics,409.8,2024-03-02,Pending
+26,72003,27,Female,Clothing,715.15,2024-02-25,Delivered
+27,36736,17,Female,Books,60.96,2024-01-01,Delivered
+28,97092,59,Female,Books,90.04,2024-02-25,Delivered
+29,35342,53,Female,Beauty,635.98,2024-03-10,Delivered
+30,90623,31,Male,Electronics,327.57,2024-03-10,Delivered
+31,59811,51,Male,Clothing,516.97,2024-01-19,Delivered
+32,77270,67,Male,Electronics,403.6,2024-02-08,Pending
+33,47504,26,Female,Electronics,122.34,2024-01-23,Delivered
+34,70713,50,Male,Books,183.21,2024-02-29,Delivered
+35,41616,63,Female,Books,562.71,2024-02-01,Delivered
+36,53016,56,Male,Home & Kitchen,728.7,2024-01-03,Cancelled
+37,69040,39,Female,Home & Kitchen,936.28,2024-02-05,Cancelled
+38,71267,50,Female,Electronics,666.87,2024-01-18,Delivered
+39,87505,69,Male,Beauty,232.03,2024-02-02,Delivered
+40,96831,35,Female,Home & Kitchen,661.04,2024-02-02,Delivered
+41,50818,37,Male,Beauty,491.87,2024-01-08,Delivered
+42,59377,36,Female,Electronics,581.13,2024-03-04,Cancelled
+43,50764,63,Male,Books,34.07,2024-02-18,Delivered
+44,66491,43,Female,Beauty,286.76,2024-01-06,Delivered
+45,73208,52,Female,Beauty,433.9,2024-02-22,Delivered
+46,76235,48,Female,Beauty,391.25,2024-03-27,Delivered
+47,95314,33,Male,Clothing,936.79,2024-02-27,Pending
+48,61885,39,Female,Clothing,261.62,2024-01-02,Delivered
+49,37751,48,Male,Home & Kitchen,711.82,2024-02-08,Delivered
+50,29190,41,Male,Clothing,868.4,2024-01-13,Delivered
+51,99912,51,Male,Books,653.46,2024-01-16,Delivered
+52,97922,38,Male,Books,583.08,2024-02-01,Delivered
+53,62921,37,Female,Clothing,40.2,2024-02-21,Delivered
+54,63006,69,Male,Books,333.38,2024-01-08,Cancelled
+55,13051,59,Male,Books,843.6,2024-02-16,Delivered
+56,82615,67,Female,Beauty,969.84,2024-01-30,Delivered
+57,83847,34,Female,Clothing,87.67,2024-03-30,Pending
+58,61990,24,Female,Beauty,67.61,2024-01-01,Delivered
+59,56175,69,Female,Electronics,663.6,2024-01-01,Pending
+60,63222,20,Female,Beauty,425.4,2024-03-16,Delivered
+61,79042,52,Female,Electronics,348.46,2024-03-09,Delivered
+62,61293,61,Female,Books,183.58,2024-01-16,Delivered
+63,45247,36,Male,Books,181.47,2024-01-23,Delivered
+64,89605,20,Female,Clothing,268.28,2024-01-10,Delivered
+65,19823,16,Female,Beauty,687.12,2024-01-16,Delivered
+66,40977,64,Female,Home & Kitchen,802.94,2024-01-12,Delivered
+67,45195,48,Male,Beauty,550.16,2024-01-12,Delivered
+68,48304,55,Female,Home & Kitchen,203.83,2024-01-13,Delivered
+69,13373,17,Male,Home & Kitchen,622.07,2024-03-27,Delivered
+70,35351,44,Female,Clothing,33.04,2024-02-03,Delivered
+71,30358,19,Female,Beauty,354.85,2024-03-15,Cancelled
+72,43496,36,Male,Electronics,552.49,2024-03-13,Delivered
+73,93042,63,Female,Clothing,257.52,2024-01-24,Cancelled
+74,42479,52,Female,Electronics,683.05,2024-01-23,Cancelled
+75,31352,45,Male,Electronics,510.2,2024-03-29,Delivered
+76,76234,34,Male,Books,20.73,2024-01-19,Delivered
+77,45270,43,Female,Books,577.7,2024-01-16,Delivered
+78,99112,67,Male,Beauty,754.85,2024-01-23,Cancelled
+79,11062,60,Male,Clothing,974.51,2024-01-14,Delivered
+80,19348,50,Male,Beauty,357.41,2024-01-18,Pending
+81,58136,25,Female,Books,868.2,2024-01-07,Delivered
+82,60343,57,Male,Clothing,892.98,2024-03-06,Delivered
+83,64693,34,Female,Beauty,376.94,2024-01-17,Pending
+84,47080,60,Female,Books,382.5,2024-01-31,Delivered
+85,36790,42,Female,Clothing,336.95,2024-03-07,Delivered
+86,96769,43,Female,Clothing,743.56,2024-03-12,Delivered
+87,52344,54,Male,Home & Kitchen,587.54,2024-03-02,Delivered
+88,38016,40,Female,Electronics,231.36,2024-01-06,Cancelled
+89,32700,62,Male,Beauty,993.04,2024-02-05,Delivered
+90,23843,33,Male,Electronics,224.64,2024-01-15,Delivered
+91,78866,31,Male,Electronics,916.1,2024-03-14,Pending
+92,31447,53,Female,Books,342.3,2024-02-05,Delivered
+93,94665,65,Female,Books,366.74,2024-03-04,Delivered
+94,48088,48,Male,Books,606.75,2024-01-29,Delivered
+95,55445,33,Male,Beauty,617.28,2024-03-06,Delivered
+96,68141,65,Male,Beauty,173.19,2024-02-02,Cancelled
+97,18415,62,Male,Home & Kitchen,598.19,2024-03-03,Delivered
+98,16970,42,Male,Beauty,72.88,2024-01-01,Delivered
+99,57926,21,Female,Electronics,539.0,2024-01-05,Pending
+100,60612,38,Male,Beauty,945.32,2024-03-14,Delivered
+101,66397,24,Female,Electronics,954.51,2024-03-17,Delivered
+102,80080,64,Female,Clothing,364.58,2024-03-12,Delivered
+103,68017,69,Female,Home & Kitchen,524.96,2024-01-12,Cancelled
+104,83963,20,Female,Home & Kitchen,409.45,2024-02-16,Delivered
+105,11252,36,Female,Clothing,806.99,2024-02-07,Delivered
+106,16949,65,Female,Clothing,398.32,2024-03-31,Delivered
+107,85745,67,Male,Electronics,785.82,2024-01-30,Delivered
+108,53088,20,Male,Books,464.75,2024-01-17,Delivered
+109,29963,35,Female,Beauty,980.23,2024-02-22,Delivered
+110,46586,58,Female,Home & Kitchen,85.1,2024-01-23,Delivered
+111,81774,26,Female,Books,190.06,2024-02-25,Delivered
+112,93807,18,Male,Beauty,973.38,2024-03-01,Delivered
+113,33954,36,Male,Clothing,285.8,2024-03-01,Delivered
+114,49749,16,Male,Electronics,362.43,2024-02-15,Delivered
+115,91818,24,Female,Electronics,486.33,2024-03-26,Delivered
+116,65645,58,Male,Beauty,12.57,2024-02-05,Cancelled
+117,89714,67,Male,Clothing,762.36,2024-03-18,Delivered
+118,26748,41,Female,Home & Kitchen,259.91,2024-01-07,Delivered
+119,92838,61,Male,Books,116.1,2024-02-07,Delivered
+120,45854,40,Male,Beauty,190.46,2024-02-08,Delivered
+121,16229,41,Female,Books,240.88,2024-01-13,Delivered
+122,17561,18,Male,Beauty,484.79,2024-03-26,Delivered
+123,83479,55,Male,Books,136.3,2024-02-10,Delivered
+124,94659,41,Female,Clothing,251.91,2024-02-28,Pending
+125,13812,48,Male,Beauty,161.33,2024-01-04,Cancelled
+126,86125,46,Female,Electronics,89.43,2024-01-31,Delivered
+127,86323,39,Male,Clothing,580.24,2024-03-15,Cancelled
+128,10117,64,Female,Home & Kitchen,822.65,2024-03-06,Delivered
+129,89239,41,Male,Beauty,771.8,2024-03-10,Pending
+130,74323,34,Female,Electronics,738.88,2024-01-12,Delivered
+131,88477,53,Male,Home & Kitchen,932.69,2024-03-17,Delivered
+132,30128,21,Female,Clothing,553.12,2024-01-10,Pending
+133,15287,17,Female,Electronics,147.44,2024-03-13,Cancelled
+134,89767,53,Male,Home & Kitchen,355.38,2024-02-18,Cancelled
+135,22219,59,Female,Beauty,733.56,2024-01-09,Delivered
+136,83698,50,Male,Books,843.41,2024-03-12,Cancelled
+137,68596,29,Female,Home & Kitchen,172.62,2024-01-05,Delivered
+138,10077,41,Female,Books,323.03,2024-02-11,Delivered
+139,53303,23,Male,Home & Kitchen,627.86,2024-01-23,Delivered
+140,19184,40,Male,Electronics,397.57,2024-03-06,Delivered
+141,46455,55,Male,Home & Kitchen,437.21,2024-03-07,Delivered
+142,34519,57,Female,Books,796.08,2024-01-29,Delivered
+143,35053,54,Male,Books,997.72,2024-02-26,Delivered
+144,74484,42,Male,Electronics,43.2,2024-03-26,Cancelled
+145,53872,69,Female,Beauty,119.53,2024-03-28,Delivered
+146,30103,20,Male,Books,725.03,2024-01-02,Delivered
+147,49666,51,Female,Clothing,259.28,2024-03-09,Cancelled
+148,24153,55,Female,Clothing,947.81,2024-01-12,Pending
+149,83319,33,Male,Electronics,27.93,2024-02-29,Delivered
+150,49915,51,Female,Books,792.18,2024-02-06,Cancelled
+151,62329,64,Female,Clothing,78.23,2024-02-20,Cancelled
+152,54327,56,Female,Home & Kitchen,456.33,2024-02-15,Delivered
+153,11645,51,Female,Electronics,338.82,2024-02-23,Delivered
+154,73374,36,Male,Electronics,746.81,2024-03-14,Cancelled
+155,23224,50,Male,Books,542.02,2024-03-15,Pending
+156,18070,33,Male,Clothing,919.27,2024-02-12,Delivered
+157,89026,69,Female,Electronics,503.38,2024-03-10,Delivered
+158,56240,64,Male,Home & Kitchen,635.94,2024-01-28,Delivered
+159,37696,22,Male,Books,464.4,2024-01-20,Delivered
+160,31566,55,Male,Electronics,316.84,2024-03-27,Delivered
+161,43719,34,Female,Beauty,628.73,2024-01-30,Cancelled
+162,99106,33,Male,Home & Kitchen,458.76,2024-03-06,Delivered
+163,48000,65,Female,Home & Kitchen,163.69,2024-01-01,Delivered
+164,22342,54,Male,Clothing,278.04,2024-02-03,Delivered
+165,91974,43,Female,Clothing,868.32,2024-01-08,Delivered
+166,86534,18,Female,Home & Kitchen,510.45,2024-03-12,Delivered
+167,95230,52,Male,Home & Kitchen,656.22,2024-01-08,Delivered
+168,44911,39,Female,Home & Kitchen,963.02,2024-02-06,Delivered
+169,96925,46,Male,Clothing,22.87,2024-01-07,Cancelled
+170,70500,34,Female,Beauty,877.68,2024-01-29,Delivered
+171,18705,16,Male,Beauty,348.4,2024-01-02,Delivered
+172,86918,27,Female,Beauty,351.74,2024-01-09,Delivered
+173,17083,50,Female,Clothing,765.97,2024-01-24,Delivered
+174,58285,61,Male,Electronics,489.93,2024-03-21,Delivered
+175,45367,17,Male,Electronics,265.31,2024-01-22,Cancelled
+176,65961,44,Male,Clothing,279.58,2024-03-15,Cancelled
+177,71268,57,Female,Electronics,281.31,2024-01-17,Delivered
+178,88411,38,Male,Clothing,148.62,2024-01-27,Pending
+179,92565,42,Female,Clothing,604.51,2024-02-22,Delivered
+180,69052,32,Female,Beauty,389.31,2024-02-15,Delivered
+181,48709,58,Male,Home & Kitchen,99.43,2024-01-26,Delivered
+182,63002,55,Male,Books,721.86,2024-02-08,Delivered
+183,38769,62,Female,Beauty,488.92,2024-02-05,Delivered
+184,77298,67,Male,Electronics,501.4,2024-03-13,Cancelled
+185,11524,24,Male,Electronics,418.67,2024-03-01,Delivered
+186,65337,40,Male,Home & Kitchen,820.91,2024-02-13,Pending
+187,30581,49,Female,Home & Kitchen,321.45,2024-02-28,Pending
+188,45772,32,Female,Electronics,451.55,2024-02-16,Delivered
+189,54623,39,Male,Beauty,761.45,2024-03-20,Cancelled
+190,25896,33,Male,Books,229.0,2024-01-26,Delivered
+191,37935,25,Female,Electronics,188.77,2024-03-25,Delivered
+192,92310,29,Male,Beauty,733.71,2024-02-17,Delivered
+193,51786,38,Male,Clothing,747.61,2024-02-08,Delivered
+194,27850,57,Male,Electronics,653.67,2024-01-24,Delivered
+195,67132,49,Male,Beauty,534.96,2024-03-30,Cancelled
+196,88187,54,Male,Electronics,543.02,2024-03-26,Delivered
+197,37345,48,Female,Beauty,619.7,2024-03-06,Delivered
+198,62393,49,Female,Home & Kitchen,875.95,2024-01-13,Delivered
+199,23919,50,Male,Books,62.16,2024-03-02,Delivered
+200,22984,31,Female,Books,984.24,2024-01-10,Delivered
+201,34574,54,Female,Beauty,734.95,2024-02-18,Delivered
+202,43933,45,Female,Books,718.4,2024-02-06,Delivered
+203,45400,30,Male,Electronics,682.85,2024-01-12,Pending
+204,77364,52,Male,Books,423.4,2024-02-25,Cancelled
+205,39757,28,Female,Electronics,745.92,2024-01-04,Delivered
+206,66979,44,Male,Beauty,832.34,2024-03-14,Delivered
+207,92856,64,Female,Home & Kitchen,827.94,2024-01-05,Delivered
+208,82750,38,Male,Electronics,928.47,2024-03-01,Delivered
+209,94386,65,Female,Electronics,162.36,2024-02-01,Delivered
+210,64028,62,Male,Electronics,895.97,2024-01-11,Cancelled
+211,33874,43,Male,Electronics,53.93,2024-03-16,Delivered
+212,56542,55,Male,Beauty,737.86,2024-03-28,Delivered
+213,79669,23,Male,Beauty,58.3,2024-01-18,Delivered
+214,19903,28,Female,Beauty,991.56,2024-02-09,Cancelled
+215,12396,66,Female,Home & Kitchen,354.33,2024-02-09,Delivered
+216,96231,34,Female,Books,852.08,2024-02-28,Delivered
+217,43130,60,Male,Beauty,683.34,2024-03-03,Delivered
+218,63947,22,Male,Home & Kitchen,961.7,2024-01-31,Cancelled
+219,12719,58,Male,Clothing,819.79,2024-03-18,Cancelled
+220,43062,17,Female,Beauty,620.76,2024-01-17,Delivered
+221,82545,39,Male,Home & Kitchen,137.16,2024-03-23,Cancelled
+222,39257,56,Female,Clothing,348.45,2024-02-29,Delivered
+223,36660,44,Female,Books,182.02,2024-03-08,Delivered
+224,60192,27,Female,Electronics,586.35,2024-03-05,Delivered
+225,86919,33,Female,Beauty,451.5,2024-02-21,Cancelled
+226,97046,44,Male,Electronics,330.37,2024-03-19,Cancelled
+227,37082,38,Female,Clothing,280.89,2024-01-29,Pending
+228,99186,28,Male,Beauty,696.75,2024-02-01,Delivered
+229,88797,35,Female,Home & Kitchen,280.53,2024-03-21,Pending
+230,43756,36,Male,Beauty,642.14,2024-01-06,Cancelled
+231,42196,18,Male,Electronics,327.54,2024-02-07,Delivered
+232,11980,50,Female,Electronics,655.15,2024-01-12,Delivered
+233,33019,31,Male,Books,193.67,2024-01-17,Delivered
+234,18711,30,Male,Clothing,763.41,2024-01-03,Cancelled
+235,48827,68,Female,Books,967.84,2024-01-20,Cancelled
+236,78760,45,Female,Electronics,611.23,2024-03-24,Delivered
+237,75455,37,Female,Beauty,276.3,2024-03-28,Delivered
+238,39759,28,Male,Beauty,81.72,2024-03-04,Delivered
+239,72046,53,Female,Home & Kitchen,698.03,2024-02-02,Pending
+240,62648,23,Male,Home & Kitchen,113.88,2024-01-17,Delivered
+241,62269,47,Male,Books,705.44,2024-03-14,Cancelled
+242,71681,48,Female,Electronics,96.99,2024-03-17,Delivered
+243,98652,67,Female,Clothing,977.69,2024-03-30,Delivered
+244,91905,30,Female,Clothing,175.81,2024-02-18,Pending
+245,67660,18,Male,Electronics,936.85,2024-02-01,Delivered
+246,36289,43,Female,Books,346.06,2024-01-07,Delivered
+247,76435,21,Female,Clothing,486.09,2024-02-10,Delivered
+248,46877,26,Female,Books,254.63,2024-01-13,Delivered
+249,93186,34,Male,Books,746.84,2024-02-22,Delivered
+250,99899,33,Female,Clothing,656.73,2024-02-06,Pending
+251,12920,18,Female,Clothing,409.23,2024-03-01,Delivered
+252,65230,30,Male,Books,182.45,2024-03-25,Cancelled
+253,10956,39,Female,Beauty,352.48,2024-01-20,Delivered
+254,90818,47,Male,Books,39.1,2024-03-06,Delivered
+255,86707,21,Male,Clothing,992.21,2024-02-27,Pending
+256,58364,33,Female,Beauty,735.78,2024-01-26,Cancelled
+257,33279,45,Male,Clothing,245.17,2024-03-18,Delivered
+258,36916,20,Female,Beauty,442.79,2024-02-29,Delivered
+259,80135,54,Male,Books,597.02,2024-03-10,Delivered
+260,71272,43,Female,Home & Kitchen,660.17,2024-03-05,Cancelled
+261,71367,51,Male,Home & Kitchen,884.87,2024-01-14,Delivered
+262,81260,25,Female,Electronics,436.58,2024-01-20,Delivered
+263,33499,16,Male,Books,385.57,2024-02-06,Delivered
+264,25563,52,Male,Electronics,708.33,2024-02-25,Delivered
+265,77278,21,Female,Home & Kitchen,120.8,2024-03-18,Delivered
+266,57614,52,Female,Clothing,48.95,2024-02-04,Delivered
+267,38404,20,Male,Electronics,588.82,2024-01-12,Delivered
+268,45057,39,Male,Home & Kitchen,27.21,2024-03-29,Delivered
+269,25398,46,Female,Home & Kitchen,493.96,2024-02-13,Delivered
+270,49062,60,Female,Clothing,209.83,2024-01-08,Pending
+271,33196,47,Female,Beauty,963.71,2024-02-16,Delivered
+272,57414,41,Male,Clothing,27.34,2024-03-22,Delivered
+273,46487,62,Female,Electronics,40.08,2024-03-12,Cancelled
+274,40659,48,Male,Home & Kitchen,941.47,2024-01-14,Delivered
+275,88916,56,Female,Books,167.69,2024-03-04,Delivered
+276,15704,48,Male,Electronics,872.05,2024-03-13,Delivered
+277,95150,56,Male,Books,654.01,2024-01-04,Delivered
+278,74965,49,Female,Beauty,799.84,2024-03-23,Cancelled
+279,13712,39,Female,Electronics,335.1,2024-03-05,Delivered
+280,19108,34,Female,Beauty,454.21,2024-02-18,Delivered
+281,32443,53,Female,Home & Kitchen,607.41,2024-03-18,Delivered
+282,87576,18,Male,Clothing,951.96,2024-03-06,Delivered
+283,41348,44,Female,Electronics,386.39,2024-02-17,Delivered
+284,21563,51,Male,Home & Kitchen,767.23,2024-03-10,Cancelled
+285,36987,58,Male,Beauty,203.82,2024-03-20,Delivered
+286,97163,30,Male,Books,927.76,2024-01-15,Delivered
+287,47650,49,Female,Beauty,621.18,2024-02-21,Delivered
+288,52652,62,Female,Home & Kitchen,585.12,2024-02-05,Cancelled
+289,22289,64,Male,Books,824.94,2024-03-15,Delivered
+290,54139,25,Male,Beauty,192.74,2024-03-03,Delivered
+291,84172,57,Female,Books,430.28,2024-01-07,Cancelled
+292,31675,60,Female,Home & Kitchen,12.56,2024-01-22,Cancelled
+293,98789,43,Male,Clothing,219.92,2024-01-10,Delivered
+294,85388,57,Female,Electronics,244.5,2024-02-06,Delivered
+295,65826,51,Female,Clothing,811.43,2024-01-19,Delivered
+296,78576,65,Male,Electronics,739.51,2024-02-02,Delivered
+297,59104,37,Female,Beauty,645.55,2024-03-11,Delivered
+298,67993,24,Female,Beauty,598.53,2024-01-25,Pending
+299,14358,36,Female,Home & Kitchen,448.29,2024-02-08,Cancelled
